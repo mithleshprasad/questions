@@ -1,0 +1,64 @@
+{
+  "math_questions": [
+    {
+      "id": 1,
+      "question": "Solve the equation: 2x + 5 = 15",
+      "options": ["a) 3", "b) 5", "c) 7", "d) 10"],
+      "answer": "b) 5"
+    },
+    {
+      "id": 2,
+      "question": "Calculate the area of a right-angled triangle with base 8 cm and height 10 cm.",
+      "options": ["a) 30", "b) 40", "c) 50", "d) 60"],
+      "answer": "b) 40"
+    },
+    {
+      "id": 3,
+      "question": "Factorize the quadratic expression: x^2 + 7x + 10",
+      "options": ["a) (x + 2)(x + 3)", "b) (x + 2)(x + 5)", "c) (x + 3)(x + 5)", "d) (x + 1)(x + 10)"],
+      "answer": "b) (x + 2)(x + 5)"
+    },
+    {
+      "id": 4,
+      "question": "Find the value of cos(45 degrees).",
+      "options": ["a) sqrt(3)/2", "b) 1/2", "c) sqrt(2)/2", "d) 1"],
+      "answer": "c) sqrt(2)/2 or 0.7071"
+    },
+    {
+      "id": 5,
+      "question": "Simplify the expression: (3a^2b^3)(2ab^2)",
+      "options": ["a) 6a^3b^5", "b) 5a^2b^5", "c) 6a^3b^6", "d) 5a^3b^4"],
+      "answer": "a) 6a^3b^5"
+    },
+    {
+      "id": 6,
+      "question": "Calculate the perimeter of a rectangle with length 12 cm and width 8 cm.",
+      "options": ["a) 32", "b) 36", "c) 40", "d) 44"],
+      "answer": "c) 40"
+    },
+    {
+      "id": 7,
+      "question": "Determine the solution set for the inequality: 3x - 7 < 5",
+      "options": ["a) x > 4", "b) x < 4", "c) x > 2", "d) x < 2"],
+      "answer": "b) x < 4"
+    },
+    {
+      "id": 8,
+      "question": "Find the midpoint between the points A(3, 4) and B(7, 10).",
+      "options": ["a) (5, 7)", "b) (6, 8)", "c) (8, 12)", "d) (10, 14)"],
+      "answer": "a) (5, 7)"
+    },
+    {
+      "id": 9,
+      "question": "Solve the system of equations: 2x + y = 10, 3x - 2y = 5",
+      "options": ["a) x = 2, y = 6", "b) x = 3, y = 4", "c) x = 4, y = 2", "d) x = 5, y = 0"],
+      "answer": "b) x = 3, y = 4"
+    },
+    {
+      "id": 10,
+      "question": "Calculate the volume of a cylinder with radius 4 cm and height 12 cm.",
+      "options": ["a) 96π cubic cm", "b) 144π cubic cm", "c) 192π cubic cm", "d) 240π cubic cm"],
+      "answer": "c) 192π cubic cm or approximately 603.19 cubic cm"
+    }
+  ]
+}
